@@ -1,0 +1,518 @@
+{
+    "products": [
+        {
+            "id": 0,
+            "title": "Adidas 8681 Đen Kẻ Trắng SF",
+            "description": "An apple mobile which is nothing like apple",
+            "price": 500000,
+            "discountPercentage": 12.96,
+            "rating": 4.69,
+            "stock": 94,
+            "brand": "Apple",
+            "category": "man-shoes",
+            "thumbnail": "https://giayxshop.vn/wp-content/uploads/2022/07/z3657932021630_50a8632c81be92e2861408d560765cae.jpg",
+            "images": [
+                "https://giayxshop.vn/wp-content/uploads/2022/07/z3657932021630_50a8632c81be92e2861408d560765cae.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/07/z3657932085521_77caa9ac7a21d8a617596b66034716d1.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/07/z3657932051478_b6563a93b7f50c597f77b81a7e8a408e.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/07/z3657932032657_8d9cf937dee67b4cb4c79ecf2f61a82b.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/07/z3657932029111_414990a61d2c8c1d3fb1e0e7e2446d1a.jpg"
+            ]
+        },
+        {
+            "id": 1,
+            "title": "Adidas 8681 Xám Kẻ Đen SF",
+            "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+            "price": 500000,
+            "discountPercentage": 17.94,
+            "rating": 4.44,
+            "stock": 34,
+            "brand": "Apple",
+            "category": "man-shoes",
+            "thumbnail": "https://giayxshop.vn/wp-content/uploads/2022/05/z3938687264494_6417f1beee08b7a2bce6914f750a85d6-scaled.jpg",
+            "images": [
+                "https://giayxshop.vn/wp-content/uploads/2022/05/z3938687264494_6417f1beee08b7a2bce6914f750a85d6-scaled.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/05/z3938688459207_50c53ffd15c19ae09e7dc9d22f20127f-scaled.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/05/z3938688710628_eac768c2f5b607b8234266a7d0774ff2-scaled.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/05/z3938688672732_5c46b9cecd53dd4bcefe1c603447a36c-scaled.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/05/z3938688577555_26bf7cb2ad4759fd33566948e4855b70-scaled.jpg"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Adidas A102 Full Black SF",
+            "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+            "price": 400000,
+            "discountPercentage": 15.46,
+            "rating": 4.09,
+            "stock": 36,
+            "brand": "Samsung",
+            "category": "man-shoes",
+            "thumbnail": "https://giayxshop.vn/wp-content/uploads/2022/08/z3670524220405_279c5d47bd816ba49ca01f343dc9e7de.jpg",
+            "images": [
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3670524220405_279c5d47bd816ba49ca01f343dc9e7de.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3670524325867_ae837ee46016182122e5253a05b5ae87.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3670524279165_1d61a01848c400af2fba3166ba9a9e40.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3670524220405_279c5d47bd816ba49ca01f343dc9e7de.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3670524211275_c15db7bf876d8a441c90779f8870f4ad.jpg"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Adidas A109 Xám Cam SF",
+            "description": "OPPO F19 is officially announced on April 2021.",
+            "price": 500000,
+            "discountPercentage": 17.91,
+            "rating": 4.3,
+            "stock": 123,
+            "brand": "OPPO",
+            "category": "man-shoes",
+            "thumbnail": "https://giayxshop.vn/wp-content/uploads/2022/11/z3867071356436_0d2859ee85cd1bb5f7b941c473b39726.jpg",
+            "images": [
+                "https://giayxshop.vn/wp-content/uploads/2022/11/z3867071356436_0d2859ee85cd1bb5f7b941c473b39726.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/11/z3867070873785_b6ccb984c73fcc2c47a341072ba9653a.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/11/z3867070803299_ce2ad762c0361bdc874fae882dc96ac0.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/11/z3867070748507_e5d8e5c30229da4a8f253ae1eb6f55cb.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/11/z3867070671948_1ca0ec312722857d8096524ad9b05013.jpg"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Adidas A153 Đen Trắng REP",
+            "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+            "price": 500000,
+            "discountPercentage": 10.58,
+            "rating": 4.09,
+            "stock": 32,
+            "brand": "Huawei",
+            "category": "man-shoes",
+            "thumbnail": "https://giayxshop.vn/wp-content/uploads/2022/08/z3649504028816_6fd7a70144927b3b6b0804a3100d00b7.jpg",
+            "images": [
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3649504028816_6fd7a70144927b3b6b0804a3100d00b7.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3649504247265_c9bd5fcf4511195c382c33ae22120be0.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3649504185503_ea2c9fe6f44fb6b443199cff0b42b408.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3649504115258_e8c6eea9a62a3770367e41b9f7f2bd55.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3649504047225_94758cb0563820c666bde7e06345829c.jpg"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Adidas A153 Xám REP",
+            "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+            "price": 500000,
+            "discountPercentage": 11.02,
+            "rating": 4.57,
+            "stock": 83,
+            "brand": "Apple",
+            "category": "man-shoes",
+            "thumbnail": "https://giayxshop.vn/wp-content/uploads/2022/08/z3649504841895_090343cd5b0e5217aaa5131ba082bc17.jpg",
+            "images": [
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3649504841895_090343cd5b0e5217aaa5131ba082bc17.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3649505089075_7b805683a52df8ff0f48f8dafb9f7121.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3649505008898_5bd5ed0f4e4b30bd6b9b30a51a3d91ab.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3649504935798_83ba0445aeb6317fa353ec8fda1d51c4.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3649504879823_359e0b8191ae01db0d69f16bb98b5820.jpg"
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Adidas Alphabounce Beyond REP Đen",
+            "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+            "price": 600000,
+            "discountPercentage": 4.15,
+            "rating": 4.25,
+            "stock": 50,
+            "brand": "Samsung",
+            "category": "man-shoes",
+            "thumbnail": "https://giayxshop.vn/wp-content/uploads/2019/02/z3653425247333_24130268b157f9bed3b68402995001aa.jpg",
+            "images": [
+                "https://giayxshop.vn/wp-content/uploads/2019/02/z3653425247333_24130268b157f9bed3b68402995001aa.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2019/02/z3653425267008_96e54bd801ef5345d4c5b4348b7ab1cc.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2019/02/z3653425251882_3ad351a92b28225aa196a3e392cbfb3c-1.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2019/02/z3653425255528_7fa2306b2963c6166129951427daf704.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2019/02/z3653425258703_84c23469b1878b46de7e13e81afd286f.jpg"
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Adidas Alphabounce Beyond REP Đen Kem",
+            "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+            "price": 600000,
+            "discountPercentage": 10.23,
+            "rating": 4.43,
+            "stock": 68,
+            "brand": "Microsoft Surface",
+            "category": "man-shoes",
+            "thumbnail": "https://giayxshop.vn/wp-content/uploads/2022/08/z3653367940573_150eb665ed9cf3b270c75a9bf58ecf42.jpg",
+            "images": [
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3653367940573_150eb665ed9cf3b270c75a9bf58ecf42.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3653367745190_4682df48d4d257afa1ba229cc2b47d32.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3653367740275_02d01fbd306d68199bf8375d3f5cc31d.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3653367735995_c4ca93dffdfe2f1fff4dcd0a4f7f92ae.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3653367731979_c867849ddcbaf19c7fef13472177ec39.jpg"
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Adidas Alphabounce Beyond REP Navy Xanh",
+            "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+            "price": 600000,
+            "discountPercentage": 11.83,
+            "rating": 4.54,
+            "stock": 96,
+            "brand": "Infinix",
+            "category": "man-shoes",
+            "thumbnail": "https://giayxshop.vn/wp-content/uploads/2023/02/z4116868579142_e50fd9c990863f8f8dff90807e10584f.jpg",
+            "images": [
+                "https://giayxshop.vn/wp-content/uploads/2023/02/z4116868579142_e50fd9c990863f8f8dff90807e10584f.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2023/02/z4116868626240_3773370366b3036bdd80ef655055171c.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2023/02/z4116868579142_e50fd9c990863f8f8dff90807e10584f.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2023/02/z4116868566738_3a936caa9644a9a81fa5a59b37783c8b.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2023/02/z4116868469349_120ef1ea9cf598727c1bdf9e742741f5.jpg"
+            ]
+        },
+        {
+            "id": 9,
+            "title": "Nike jordan 1 cổ thấp trắng đen",
+            "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+            "price": 250000,
+            "discountPercentage": 6.18,
+            "rating": 4.43,
+            "stock": 89,
+            "brand": "HP Pavilion",
+            "category": "woman-shoes",
+            "thumbnail": "https://giayxshop.vn/wp-content/uploads/2022/08/z3619930736756_c9141c8069ab58590602637911484252.jpg",
+            "images": [
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3619930736756_c9141c8069ab58590602637911484252.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3619930599849_833b286e460568909044363825d66b39.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3619930687544_9de38c15969715e18f70ec6c29e0b08f.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3619930599849_833b286e460568909044363825d66b39.jpg"
+            ]
+        },
+        {
+            "id": 10,
+            "title": "Nike Jordan 1 Cổ Thấp Xanh Dương",
+            "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
+            "price": 250000,
+            "discountPercentage": 8.4,
+            "rating": 4.26,
+            "stock": 65,
+            "brand": "Impression of Acqua Di Gio",
+            "category": "woman-shoes",
+            "thumbnail": "https://giayxshop.vn/wp-content/uploads/2022/08/z3635107181352_638a56793dfa380804555a5eb1a2b5fc.jpg",
+            "images": [
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3635107181352_638a56793dfa380804555a5eb1a2b5fc.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3635107005792_b5171671857e9fa3cc99614b49a9dc2d.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3635106977441_a57a600961c95856ff055bb31715d012.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3635106916725_5a32f74ff8db18d752223b5e49b7fcca.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3635106877061_2a4b0d3dee947c518e68c15508f2f6a8.jpg"
+            ]
+        },
+        {
+            "id": 11,
+            "title": "Nike Air Force 1 Trắng Xanh Biển",
+            "description": "Royal_Mirage Sport Brown Perfume for Men & Women - 120ml",
+            "price": 250000,
+            "discountPercentage": 15.66,
+            "rating": 4,
+            "stock": 52,
+            "brand": "Royal_Mirage",
+            "category": "woman-shoes",
+            "thumbnail": "https://giayxshop.vn/wp-content/uploads/2022/09/z3712837271179_c02592bd7c946ada8bee18713cb47952.jpg",
+            "images": [
+                "https://giayxshop.vn/wp-content/uploads/2022/09/z3712837271179_c02592bd7c946ada8bee18713cb47952.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/09/z3712837551150_fb63f9cd1c7a7695b480a289edf6ce20.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/09/z3712837464834_42cd95be3672bf76ba21a34dcd0206bc.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/09/z3712837438657_bb41cf705a232738173dfdc4db52d62d.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/09/z3712837260056_2032a313376846b9fdd55485659e4428.jpg"
+            ]
+        },
+        {
+            "id": 12,
+            "title": "New Balance 300 Pro Court Kem navy",
+            "description": "Product details of Best Fog Scent Xpressio Perfume 100ml For Men cool long lasting perfumes for Men",
+            "price": 350000,
+            "discountPercentage": 8.14,
+            "rating": 4.59,
+            "stock": 61,
+            "brand": "Fog Scent Xpressio",
+            "category": "woman-shoes",
+            "thumbnail": "https://giayxshop.vn/wp-content/uploads/2022/08/z3991922543391_ec4c227306961a1487e78834ea5b9b91.jpg",
+            "images": [
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3991922543391_ec4c227306961a1487e78834ea5b9b91.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3991922493765_5fc270ed747674d35be558bfd0380adf.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3991922396377_f9e1507f1defabbeae5afa077a576597.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3991922315698_d2d052ca8c963de59bb419c2d99dcd22.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3991922266898_49db6f95c41c5495c560a7e6a71c3465.jpg"
+            ]
+        },
+        {
+            "id": 13,
+            "title": "New Balance 300 Pro Court Kem Xanh Lá",
+            "description": "Original Al Munakh® by Mahal Al Musk | Our Impression of Climate | 6ml Non-Alcoholic Concentrated Perfume Oil",
+            "price": 350000,
+            "discountPercentage": 15.6,
+            "rating": 4.21,
+            "stock": 114,
+            "brand": "Al Munakh",
+            "category": "woman-shoes",
+            "thumbnail": "https://giayxshop.vn/wp-content/uploads/2022/08/z3991923145783_683a39a03ff212f7b9df83b797bf9223.jpg",
+            "images": [
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3991923145783_683a39a03ff212f7b9df83b797bf9223.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3991922974274_6ba431887b5eb071c211762b0d24c76d.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3991922938956_ffddd4c4ab7ab432c45d3163ebd9b8e3.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3991922912942_04a05d21bcded06d9cf07d9fee819fdb.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3991922894171_ac7155c6b96cf707d5d18a66214419d4.jpg"
+            ]
+        },
+        {
+            "id": 14,
+            "title": "Adidas Superstar Xanh Ngọc Mũi Sò REP",
+            "description": "Genuine  Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality",
+            "price": 350000,
+            "discountPercentage": 10.99,
+            "rating": 4.7,
+            "stock": 105,
+            "brand": "Lord - Al-Rehab",
+            "category": "woman-shoes",
+            "thumbnail": "https://giayxshop.vn/wp-content/uploads/2022/11/z3858834462180_b88a4878471bd97811f01ddcc5e516c1.jpg",
+            "images": [
+                "https://giayxshop.vn/wp-content/uploads/2022/11/z3858834462180_b88a4878471bd97811f01ddcc5e516c1.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/11/z3858834296096_fabc261464f3de91a9d707bb16eb087e.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/11/z3858834279239_ff49c47f613b63b47e3b8ec02eada04e.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/11/z3858834246218_f4aeb5aa0da6c3a6a0a1a67fbf988182.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/11/z3858834229400_d9ef1e621afcf360e20a0474a4125432.jpg"
+            ]
+        },
+        {
+            "id": 15,
+            "title": "MLB Chunky Liner NY Trắng Gót Đen",
+            "description": "L'OrÃ©al Paris introduces Hyaluron Expert Replumping Serum formulated with 1.5% Hyaluronic Acid",
+            "price": 400000,
+            "discountPercentage": 13.31,
+            "rating": 4.83,
+            "stock": 110,
+            "brand": "L'Oreal Paris",
+            "category": "woman-shoes",
+            "thumbnail": "https://giayxshop.vn/wp-content/uploads/2022/09/z3751098635004_ad3a6013f4b9c4e06d253544a3debcea.jpg",
+            "images": [
+                "https://giayxshop.vn/wp-content/uploads/2022/09/z3751098635004_ad3a6013f4b9c4e06d253544a3debcea.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/09/z3751098611522_7a9d6420b6e3d292d02fb78760f08a48.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/09/z3751098598364_de80658765413c9b856999e5c49b495b.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/09/z3751098594444_bc0c6daa2c5dc0a4e7206f2c6dbbcc0b.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/09/z3751098594442_c4e8ad4fbd5a3d659de89999c806eafc.jpg"
+            ]
+        },
+        {
+            "id": 16,
+            "title": "MLB Chunky Liner NY Trắng Gót Xanh",
+            "description": "Tea tree oil contains a number of compounds, including terpinen-4-ol, that have been shown to kill certain bacteria,",
+            "price": 400000,
+            "discountPercentage": 4.09,
+            "rating": 4.52,
+            "stock": 78,
+            "brand": "Hemani Tea",
+            "category": "woman-shoes",
+            "thumbnail": "https://giayxshop.vn/wp-content/uploads/2022/09/z3751100672449_ca285250f42e274fd8da6c4a3c60ad70.jpg",
+            "images": [
+                "https://giayxshop.vn/wp-content/uploads/2022/09/z3751100672449_ca285250f42e274fd8da6c4a3c60ad70.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/09/z3751100125706_8fe0d2e35c55166783802a8f00939fe4.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/09/z3751100064854_773fa866bdd28da91908265384b10800.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/09/z3751099987365_6f852804adb86bcc1feefd8fc62cc3fb.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/09/z3751099897585_12ea11ab7184e92c909ffb3a709e76d8.jpg"
+            ]
+        },
+        {
+            "id": 17,
+            "title": "MLB Chunky Liner NY Kem Gót Đen",
+            "description": "Dermive Oil Free Moisturizer with SPF 20 is specifically formulated with ceramides, hyaluronic acid & sunscreen.",
+            "price": 400000,
+            "discountPercentage": 13.1,
+            "rating": 4.56,
+            "stock": 88,
+            "brand": "Dermive",
+            "category": "woman-shoes",
+            "thumbnail": "https://giayxshop.vn/wp-content/uploads/2022/11/z3893471500604_f42c5cc5f147d5669d9dd73a440b449c.jpg",
+            "images": [
+                "https://giayxshop.vn/wp-content/uploads/2022/11/z3893471500604_f42c5cc5f147d5669d9dd73a440b449c.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/11/z3893471475138_34a361c8363bfbe416ae194e0c308919.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/11/z3893471474136_74ce2708c751862b89c5388d188802a6.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/11/z3893471470909_09b9ebf2613138783ed9253f8e2db147.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/11/z3893471466044_062be79477c208ca22a05db0e10d0bbb.jpg"
+            ]
+        },
+        {
+            "id": 18,
+            "title": "Nike jordan 1 cổ thấp trắng đen",
+            "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+            "price": 250000,
+            "discountPercentage": 6.18,
+            "rating": 4.43,
+            "stock": 89,
+            "brand": "HP Pavilion",
+            "category": "woman-shoes",
+            "thumbnail": "https://giayxshop.vn/wp-content/uploads/2022/08/z3619930736756_c9141c8069ab58590602637911484252.jpg",
+            "images": [
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3619930736756_c9141c8069ab58590602637911484252.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3619930599849_833b286e460568909044363825d66b39.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3619930687544_9de38c15969715e18f70ec6c29e0b08f.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3619930599849_833b286e460568909044363825d66b39.jpg"
+            ]
+        },
+        {
+            "id": 19,
+            "title": "Nike Jordan 1 Cổ Thấp Xanh Dương",
+            "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
+            "price": 250000,
+            "discountPercentage": 8.4,
+            "rating": 4.26,
+            "stock": 65,
+            "brand": "Impression of Acqua Di Gio",
+            "category": "woman-shoes",
+            "thumbnail": "https://giayxshop.vn/wp-content/uploads/2022/08/z3635107181352_638a56793dfa380804555a5eb1a2b5fc.jpg",
+            "images": [
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3635107181352_638a56793dfa380804555a5eb1a2b5fc.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3635107005792_b5171671857e9fa3cc99614b49a9dc2d.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3635106977441_a57a600961c95856ff055bb31715d012.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3635106916725_5a32f74ff8db18d752223b5e49b7fcca.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3635106877061_2a4b0d3dee947c518e68c15508f2f6a8.jpg"
+            ]
+        },
+        {
+            "id": 20,
+            "title": "Nike Air Force 1 Trắng Xanh Biển",
+            "description": "Royal_Mirage Sport Brown Perfume for Men & Women - 120ml",
+            "price": 250000,
+            "discountPercentage": 15.66,
+            "rating": 4,
+            "stock": 52,
+            "brand": "Royal_Mirage",
+            "category": "woman-shoes",
+            "thumbnail": "https://giayxshop.vn/wp-content/uploads/2022/09/z3712837271179_c02592bd7c946ada8bee18713cb47952.jpg",
+            "images": [
+                "https://giayxshop.vn/wp-content/uploads/2022/09/z3712837271179_c02592bd7c946ada8bee18713cb47952.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/09/z3712837551150_fb63f9cd1c7a7695b480a289edf6ce20.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/09/z3712837464834_42cd95be3672bf76ba21a34dcd0206bc.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/09/z3712837438657_bb41cf705a232738173dfdc4db52d62d.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/09/z3712837260056_2032a313376846b9fdd55485659e4428.jpg"
+            ]
+        },
+        {
+            "id": 21,
+            "title": "New Balance 300 Pro Court Kem navy",
+            "description": "Product details of Best Fog Scent Xpressio Perfume 100ml For Men cool long lasting perfumes for Men",
+            "price": 350000,
+            "discountPercentage": 8.14,
+            "rating": 4.59,
+            "stock": 61,
+            "brand": "Fog Scent Xpressio",
+            "category": "woman-shoes",
+            "thumbnail": "https://giayxshop.vn/wp-content/uploads/2022/08/z3991922543391_ec4c227306961a1487e78834ea5b9b91.jpg",
+            "images": [
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3991922543391_ec4c227306961a1487e78834ea5b9b91.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3991922493765_5fc270ed747674d35be558bfd0380adf.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3991922396377_f9e1507f1defabbeae5afa077a576597.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3991922315698_d2d052ca8c963de59bb419c2d99dcd22.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3991922266898_49db6f95c41c5495c560a7e6a71c3465.jpg"
+            ]
+        },
+        {
+            "id": 22,
+            "title": "New Balance 300 Pro Court Kem Xanh Lá",
+            "description": "Original Al Munakh® by Mahal Al Musk | Our Impression of Climate | 6ml Non-Alcoholic Concentrated Perfume Oil",
+            "price": 350000,
+            "discountPercentage": 15.6,
+            "rating": 4.21,
+            "stock": 114,
+            "brand": "Al Munakh",
+            "category": "woman-shoes",
+            "thumbnail": "https://giayxshop.vn/wp-content/uploads/2022/08/z3991923145783_683a39a03ff212f7b9df83b797bf9223.jpg",
+            "images": [
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3991923145783_683a39a03ff212f7b9df83b797bf9223.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3991922974274_6ba431887b5eb071c211762b0d24c76d.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3991922938956_ffddd4c4ab7ab432c45d3163ebd9b8e3.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3991922912942_04a05d21bcded06d9cf07d9fee819fdb.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/08/z3991922894171_ac7155c6b96cf707d5d18a66214419d4.jpg"
+            ]
+        },
+        {
+            "id": 23,
+            "title": "Adidas Superstar Xanh Ngọc Mũi Sò REP",
+            "description": "Genuine  Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality",
+            "price": 350000,
+            "discountPercentage": 10.99,
+            "rating": 4.7,
+            "stock": 105,
+            "brand": "Lord - Al-Rehab",
+            "category": "woman-shoes",
+            "thumbnail": "https://giayxshop.vn/wp-content/uploads/2022/11/z3858834462180_b88a4878471bd97811f01ddcc5e516c1.jpg",
+            "images": [
+                "https://giayxshop.vn/wp-content/uploads/2022/11/z3858834462180_b88a4878471bd97811f01ddcc5e516c1.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/11/z3858834296096_fabc261464f3de91a9d707bb16eb087e.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/11/z3858834279239_ff49c47f613b63b47e3b8ec02eada04e.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/11/z3858834246218_f4aeb5aa0da6c3a6a0a1a67fbf988182.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/11/z3858834229400_d9ef1e621afcf360e20a0474a4125432.jpg"
+            ]
+        },
+        {
+            "id": 24,
+            "title": "MLB Chunky Liner NY Trắng Gót Đen",
+            "description": "L'OrÃ©al Paris introduces Hyaluron Expert Replumping Serum formulated with 1.5% Hyaluronic Acid",
+            "price": 400000,
+            "discountPercentage": 13.31,
+            "rating": 4.83,
+            "stock": 110,
+            "brand": "L'Oreal Paris",
+            "category": "woman-shoes",
+            "thumbnail": "https://giayxshop.vn/wp-content/uploads/2022/09/z3751098635004_ad3a6013f4b9c4e06d253544a3debcea.jpg",
+            "images": [
+                "https://giayxshop.vn/wp-content/uploads/2022/09/z3751098635004_ad3a6013f4b9c4e06d253544a3debcea.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/09/z3751098611522_7a9d6420b6e3d292d02fb78760f08a48.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/09/z3751098598364_de80658765413c9b856999e5c49b495b.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/09/z3751098594444_bc0c6daa2c5dc0a4e7206f2c6dbbcc0b.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/09/z3751098594442_c4e8ad4fbd5a3d659de89999c806eafc.jpg"
+            ]
+        },
+        {
+            "id": 25,
+            "title": "MLB Chunky Liner NY Trắng Gót Xanh",
+            "description": "Tea tree oil contains a number of compounds, including terpinen-4-ol, that have been shown to kill certain bacteria,",
+            "price": 400000,
+            "discountPercentage": 4.09,
+            "rating": 4.52,
+            "stock": 78,
+            "brand": "Hemani Tea",
+            "category": "woman-shoes",
+            "thumbnail": "https://giayxshop.vn/wp-content/uploads/2022/09/z3751100672449_ca285250f42e274fd8da6c4a3c60ad70.jpg",
+            "images": [
+                "https://giayxshop.vn/wp-content/uploads/2022/09/z3751100672449_ca285250f42e274fd8da6c4a3c60ad70.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/09/z3751100125706_8fe0d2e35c55166783802a8f00939fe4.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/09/z3751100064854_773fa866bdd28da91908265384b10800.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/09/z3751099987365_6f852804adb86bcc1feefd8fc62cc3fb.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/09/z3751099897585_12ea11ab7184e92c909ffb3a709e76d8.jpg"
+            ]
+        },
+        {
+            "id": 26,
+            "title": "MLB Chunky Liner NY Kem Gót Đen",
+            "description": "Dermive Oil Free Moisturizer with SPF 20 is specifically formulated with ceramides, hyaluronic acid & sunscreen.",
+            "price": 400000,
+            "discountPercentage": 13.1,
+            "rating": 4.56,
+            "stock": 88,
+            "brand": "Dermive",
+            "category": "woman-shoes",
+            "thumbnail": "https://giayxshop.vn/wp-content/uploads/2022/11/z3893471500604_f42c5cc5f147d5669d9dd73a440b449c.jpg",
+            "images": [
+                "https://giayxshop.vn/wp-content/uploads/2022/11/z3893471500604_f42c5cc5f147d5669d9dd73a440b449c.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/11/z3893471475138_34a361c8363bfbe416ae194e0c308919.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/11/z3893471474136_74ce2708c751862b89c5388d188802a6.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/11/z3893471470909_09b9ebf2613138783ed9253f8e2db147.jpg",
+                "https://giayxshop.vn/wp-content/uploads/2022/11/z3893471466044_062be79477c208ca22a05db0e10d0bbb.jpg"
+            ]
+        }
+    ],
+    "total": 100,
+    "skip": 0,
+    "limit": 30
+}
